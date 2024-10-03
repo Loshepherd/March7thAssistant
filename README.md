@@ -65,7 +65,7 @@
 
 ```cmd
 # Installation (using venv is recommended)
-git clone --recurse-submodules https://github.com/moesnow/March7thAssistant
+git clone --recurse-submodules https://github.com/Loshepherd/March7thAssistant.git
 cd March7thAssistant
 pip install -r requirements.txt
 python app.py
